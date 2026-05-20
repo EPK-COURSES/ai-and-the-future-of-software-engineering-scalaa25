@@ -1,5 +1,5 @@
 # Research
-** New Skills Required in the AI Era
+** New Skills Required in the AI Era**
 
 ## Introduction
 
