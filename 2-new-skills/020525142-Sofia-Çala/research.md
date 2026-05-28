@@ -56,3 +56,34 @@ Beyond using AI tools, engineers are increasingly expected to understand how the
 According to IEEE Spectrum's analysis of the 2025 AI Index Report by Stanford HAI, Python remains the most in-demand technical skill in AI-related job postings. But beyond programming languages, employers are increasingly listing skills in generative AI, model evaluation, and AI system integration. Generative AI skill mentions in job postings grew by nearly a factor of four between 2023 and 2024 alone.
 
 The ISTE 2024 framework formally recognized AI literacy as a pillar of digital citizenship, reflecting its transition from a specialty skill to a general professional requirement. Engineers who understand the strengths and limitations of AI models — such as hallucinations, context window limits, and training data biases — will be better equipped to deploy them responsibly.
+
+## 6. Adaptability and Continuous Learning
+
+The pace of change in AI tooling is extraordinary. The Stack Overflow 2025 Developer Survey found that **69% of developers spent time in the last year learning new coding techniques or a new programming language**, with 44% using AI-enabled tools to do so — up from 37% in 2024. Additionally, 36% of developers specifically learned to code for AI in the past year.
+
+This pattern confirms that adaptability itself has become a core professional skill. Technologies that are cutting-edge today may be replaced or superseded within months. Engineers who can continuously learn, experiment with new tools, and transfer foundational skills across contexts will remain valuable regardless of how AI evolves.
+
+Brainhub's 2025 analysis of AI's impact on software development concludes that "those who will adapt most successfully to the coming era will get to enjoy an abundance of work opportunities, but the process will require a different mindset than many software developers have today."
+
+## 7. Communication and Collaboration
+
+LinkedIn's research, cited in the 2025 IEEE Spectrum analysis, found that professionals are increasingly emphasizing "a broader range of skills and increasingly uniquely human skills, like ethical reasoning or leadership" on their profiles. This reflects a real shift in employer expectations.
+
+As AI takes over more of the mechanical production of code, the ability to collaborate with team members, communicate technical decisions to non-technical stakeholders, and reason about the ethical and business implications of software becomes a differentiating factor.
+
+The academic study on prompt engineering roles (2025) found that communication was the most in-demand soft skill — not just for interacting with AI systems, but for working within teams where AI output must be explained, challenged, and integrated.
+
+## Summary Table: Key Skills for the AI Era
+
+| Skill | Why It Matters | Evidence |
+|---|---|---|
+| Prompt Engineering | Directing AI tools effectively | Gartner, Schulhoff et al. 2024 |
+| Critical Thinking / Code Review | AI output requires human verification | Stack Overflow 2024/2025 |
+| System Design & Architecture | AI cannot design complex systems | Thoughtworks, McKinsey 2024 |
+| AI Literacy | Understanding AI strengths/limits | IEEE Spectrum, ISTE 2024 |
+| Adaptability | Tools change rapidly | Stack Overflow 2025 |
+| Communication & Collaboration | Human-AI teamwork requires clarity | LinkedIn / IEEE Spectrum 2025 |
+
+## Conclusion
+
+The AI era does not make software engineers obsolete — it transforms what they must be good at. The engineers most likely to remain valuable are those who can guide AI tools with precision, critically evaluate their output, design systems at scale, understand how AI models actually function, and communicate their work effectively across teams and organizations.The industry data is consistent across Gartner, McKinsey, Stack Overflow, IEEE, and Thoughtworks: AI raises the ceiling for what engineers can accomplish, but it also raises the floor of the skills required to do so responsibly
