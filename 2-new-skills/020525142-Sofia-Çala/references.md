@@ -21,3 +21,6 @@
 
 [10] Quantic, "10 Software Engineering Skills Needed to Lead in the AI Economy," *Quantic School of Business and Technology*, Jan. 28, 2025. https://quantic.edu/blog/2025/01/28/10-software-engineering-skills-needed-to-lead-in-the-ai-economy/
 
+[11] Brainhub, "Is There a Future for Software Engineers? The Impact of AI," *Brainhub*, 2025.  https://brainhub.eu/library/software-developer-age-of-ai
+
+[12] Gloat, "AI Skills Demand in the U.S. Job Market," *Gloat*, Mar. 4, 2026.  https://gloat.com/blog/ai-skills-demand/
