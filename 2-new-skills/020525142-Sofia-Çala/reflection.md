@@ -1,5 +1,6 @@
 # Personal Reflection
 **Topic 2 — New Skills Required in the AI Era**
+
 **Course: SWE101 | Assignment 1 and 2**
 
 ---
