@@ -1,89 +1,77 @@
 # Research
-New Skills Required in the AI Era
+**Topic 2 — New Skills Required in the AI Era**
+**Course: SWE101 | Assignment 1 and 2**
+
+---
 
 ## Introduction
 
-Artificial intelligence is no longer a distant concept for software engineers — it is a daily reality. Tools like GitHub Copilot, ChatGPT, and Claude are already integrated into professional development workflows, generating code, writing documentation, and automating repetitive tasks. This shift raises a fundamental question:
+The rapid advancement of artificial intelligence is reshaping the software engineering profession. Tools like GitHub Copilot, ChatGPT, and Claude are already part of daily development workflows. They generate code, write documentation, and automate repetitive tasks. This raises a critical question: if AI can generate code faster than a human, what skills become more valuable in software engineers? This research investigates that question through a structured review of ten peer-reviewed and academic publications, drawing on studies from MIT, Google, the University of Auckland, Frontiers in Education, Springer, and arXiv. The selected articles examine workforce transformation, prompt engineering, the risk of developer deskilling, and strategies for continuous adaptation. Together they build an argument about which skills software engineers must develop to remain relevant in an AI-driven industry.
 
-**If AI can generate code faster, what skills become more valuable in software engineers?**
+---
 
-This research explores the skills that are growing in importance as AI becomes a core part of software development, drawing on industry reports, academic research, and developer surveys from 2024 and 2025.
+## Article 1 — Necula (2023): The Problem of Changing Skills
 
-## 1. The Scale of Change: Why Skills Must Evolve
+Necula (2023) reviewed 42 academic publications on how AI affects the software engineering workforce. The findings are clear. Future software engineers will need strong programming skills, but also soft skills like problem-solving and communication. The study also warns that AI could automate many tasks currently done by engineers. This means the profession must actively adapt or risk becoming less relevant. This article is a good starting point because it gives an academic foundation for understanding why skills need to change in the first place.
 
-The transformation is not gradual — it is happening rapidly across the industry. According to Gartner (2024), generative AI will require **80% of the engineering workforce to upskill through 2027**. In a survey of 300 U.S. and U.K. organizations, 56% of software engineering leaders rated AI/ML engineering as the most in-demand role for 2024, and applying AI/ML to applications was identified as the biggest skills gap across organizations.
+---
 
-The Stack Overflow 2024 Developer Survey, which gathered responses from over 65,000 developers across 185 countries, found that **76% of developers are already using or planning to use AI tools** in their workflow — up from 70% in 2023. Meanwhile, McKinsey's 2025 State of AI Report found that nearly nine out of ten organizations now regularly use AI in at least one business function, with demand for AI-fluent roles growing sevenfold between 2023 and 2025 (from approximately 1 million to 7 million workers).
+## Article 2 — Kam et al. (2025): What Developers Actually Need
 
-This is not a slow shift. Software engineers who do not adapt will find themselves at a growing disadvantage.
+Kam et al. (2025) from Google interviewed 21 professional developers who actively use AI tools at work. They identified 75 tasks and the skills needed for each. The study organizes these into four domains: using generative AI effectively, core software engineering, adjacent engineering, and non-engineering skills like communication. One of the most important findings is the warning about deskilling. If developers rely too heavily on AI, they risk losing the foundational knowledge that makes them good engineers. This research shows that upskilling must be intentional, not something that happens automatically.
 
-## 2. Prompt Engineering: Communicating with AI
+---
 
-One of the most immediately practical new skills is **prompt engineering** — the ability to craft precise, well-structured inputs that guide AI models to produce accurate and useful outputs.
+## Article 3 — Terragni et al. (2025): Where Software Engineering Is Heading
 
-Gartner analysts predict that in the AI-native era, software engineers will primarily focus on "steering AI agents toward the most relevant context and constraints for a given task," making natural-language prompt engineering and retrieval-augmented generation (RAG) an essential engineering skill. This represents a major shift from writing every line of code to directing AI systems toward the right solution.
+Terragni et al. (2025) from the University of Auckland present a vision of the future of software development. They argue that AI and human developers will work increasingly as partners. AI will help at every stage — requirements, design, coding, testing, and maintenance. But human engineers will still be essential for directing, evaluating, and orchestrating these AI systems. This paper is important because it shows the big picture. Software engineering is not disappearing. It is transforming into something that requires higher-level thinking and system-level understanding.
 
-A major academic survey published in 2024 — "The Prompt Report" by Schulhoff et al. — identified over **58 distinct prompting techniques** used across different AI systems, demonstrating that prompt engineering has evolved from simple instructions into a structured technical discipline. Sander Schulhoff, co-author of the report, notes that prompt quality can "make or break AI performance — especially when scaled across products," with prompts sometimes running millions of times inside production systems.
+---
 
-Research has also shown concrete performance improvements. Adding specific reasoning patterns (such as "chain-of-thought" instructions) can improve AI accuracy on complex reasoning tasks by up to 58%, according to Google Research (2022). This means a skilled prompt engineer can extract dramatically better results from the same underlying AI model.
+## Article 4 — Vu & Oppenlaender (2025): Prompt Engineering as a Job Skill
 
-A 2025 academic study analyzing job postings for prompt engineering roles identified communication (21.9%) and creative problem-solving (15.8%) as the top two soft skills required. This reinforces the idea that prompt engineering is not purely technical — it also requires the ability to think clearly about goals and express them precisely.
+Vu and Oppenlaender (2025) analyzed over 20,000 LinkedIn job postings to understand what prompt engineering roles require. They found that prompt engineers need AI knowledge (22.8%), prompt design skills (18.7%), communication (21.9%), and creative problem-solving (15.8%). Although prompt engineering is still a small share of job postings, it has a unique skill profile that is different from data scientists or machine learning engineers. This study shows that prompt engineering is becoming its own recognized profession, not just an informal ability.
 
-## 3. Critical Thinking and Code Verification
+---
 
-As AI generates more code, the ability to critically evaluate that code becomes increasingly important. The Stack Overflow 2024 Developer Survey found that **only 43% of developers trust the accuracy of AI tool outputs**, and 45% of professional developers believe AI tools are bad or very bad at handling complex tasks.
+## Article 5 — Federiakin et al. (2024): Prompt Engineering for Everyone
 
-The 2025 Stack Overflow survey showed that even more developers actively distrust AI accuracy (46%) than trust it (33%), with experienced developers being the most cautious. This data shows that AI-generated code is not simply accepted — it must be reviewed, tested, and understood by a human engineer.
+Federiakin et al. (2024) argue that prompt engineering is not just for specialists. It is a 21st century skill that everyone working with AI needs to develop. The paper shows that a small change in how you write a prompt can completely change the quality of the AI output. Good prompting is not intuitive — it has to be learned. This is relevant for software engineers because working with AI tools daily requires knowing how to communicate with them effectively. It is as important as the AI tool itself.
 
-McKinsey (2024) noted in their research that "a significant percentage of code generated by the current generation of gen AI tools needs some correction," identifying code review as one of the three most critical new skills engineers must develop. Engineers who passively accept AI output without verification risk introducing bugs, security vulnerabilities, or poorly architected solutions into production systems.
+---
 
-Thoughtworks (2025) raised this concern directly, pointing to a viral blog post from developer Namanyay Goel, who argued that junior developers over-relying on tools like GitHub Copilot and Claude Code were missing "the foundational knowledge that used to come from struggling through problems." Critical thinking — understanding *why* code works, not just *that* it works — remains irreplaceable.
+## Article 6 — Schulhoff et al. (2024): The Depth Behind Prompt Engineering
 
-## 4. System Design and Architecture
+Schulhoff et al. (2024) conducted the most comprehensive survey of prompting techniques published to date. They identified over 58 distinct techniques used across different AI systems. They also documented 40 multimodal variants and created a standardized vocabulary of 33 terms for the field. One key finding is that structured approaches like chain-of-thought reasoning can significantly improve AI accuracy on complex tasks. This paper confirms that prompt engineering is much deeper than most people assume. It is a real technical discipline, not just typing instructions into a chatbox.
 
-AI tools are strongest at the level of individual functions, files, or snippets. They become far less reliable when reasoning about large, complex, interconnected systems. This means **system design and software architecture** are becoming more important, not less.
+---
 
-Thoughtworks (2025) describes the evolving role of the software developer as becoming "stewards of systems, accountable for the software's reliability, performance and value" — rather than simply writers of code. Legacy modernization, for example, requires a developer to use AI to understand an existing codebase and then design a new architecture — a task requiring deep systems thinking.
+## Article 7 — Springer (2025): Teaching Prompt Engineering in Universities
 
-McKinsey identifies three areas where engineers must now build new skills: code review, architectural decision-making, and AI tool orchestration. Of these, architecture is the hardest to automate because it requires understanding business requirements, performance tradeoffs, team capabilities, and long-term maintainability — all deeply human considerations.
+This systematic review published in Springer (2025) examines how prompt engineering is being introduced into university curricula. The paper finds that students who develop prompt engineering skills perform better and also improve their critical thinking. Several universities have already built formal courses around it. This source matters because it shows that educational institutions are responding to the demand. Future engineers will be expected to know prompt engineering from the start of their careers, not learn it on the job later.
 
-Quantic (2025) reinforces this, noting that valuable engineers in the AI era need "a sophisticated range of skills including system design, architecture understanding, LLM calling, orchestration, and cloud services." These skills allow engineers to build systems *around* AI, not just use AI inside a single task.
+---
 
-## 5. AI Literacy and Understanding AI Systems
+## Article 8 — Oppenlaender et al. (2023): Prompt Engineering Must Be Learned
 
-Beyond using AI tools, engineers are increasingly expected to understand how they work. **AI literacy** — having a conceptual understanding of machine learning, deep learning, natural language processing, and how models are trained and deployed — is becoming a foundational skill.
+Oppenlaender et al. (2023) ran three consecutive user studies on prompt engineering as a creative and technical skill. Participants could evaluate prompt quality at a basic level and write simple prompts. But they lacked the vocabulary and technique needed for more effective advanced prompting. The conclusion is straightforward. Prompt engineering is non-intuitive. It does not develop automatically from general technology use. Engineers cannot assume they are already good at it just because they use AI tools regularly. It requires deliberate practice and learning.
 
-According to IEEE Spectrum's analysis of the 2025 AI Index Report by Stanford HAI, Python remains the most in-demand technical skill in AI-related job postings. But beyond programming languages, employers are increasingly listing skills in generative AI, model evaluation, and AI system integration. Generative AI skill mentions in job postings grew by nearly a factor of four between 2023 and 2024 alone.
+---
 
-The ISTE 2024 framework formally recognized AI literacy as a pillar of digital citizenship, reflecting its transition from a specialty skill to a general professional requirement. Engineers who understand the strengths and limitations of AI models — such as hallucinations, context window limits, and training data biases — will be better equipped to deploy them responsibly.
+## Article 9 — Anon (2025): Staying Accountable in AI-Assisted Development
 
-## 6. Adaptability and Continuous Learning
+This paper looks at how generative AI is changing the way software teams work. It focuses on what skills developers actually need in this new environment. The authors call them "AI-era developers." These are engineers who know how to work with AI but also keep responsibility for the final output. The paper also talks about a generational shift happening right now. Younger developers who grew up with AI tools are entering the field. At the same time older engineers are adapting. Both groups need to learn how to trust AI output — but also when not to trust it. This article is useful because it connects real workflow changes to the human skills needed to manage them.
 
-The pace of change in AI tooling is extraordinary. The Stack Overflow 2025 Developer Survey found that **69% of developers spent time in the last year learning new coding techniques or a new programming language**, with 44% using AI-enabled tools to do so — up from 37% in 2024. Additionally, 36% of developers specifically learned to code for AI in the past year.
+---
 
-This pattern confirms that adaptability itself has become a core professional skill. Technologies that are cutting-edge today may be replaced or superseded within months. Engineers who can continuously learn, experiment with new tools, and transfer foundational skills across contexts will remain valuable regardless of how AI evolves.
+## Article 10 — Sharma et al. (2023): Adaptability Is the Most Durable Skill
 
-Brainhub's 2025 analysis of AI's impact on software development concludes that "those who will adapt most successfully to the coming era will get to enjoy an abundance of work opportunities, but the process will require a different mindset than many software developers have today."
+Sharma et al. (2023) studied what reskilling and upskilling strategies work best for workers entering an AI-driven environment. The conclusion is that no single technical skill is the answer because specific tools change too fast. What matters most is adaptability, continuous learning, and digital literacy. These are meta-skills — they make every other skill easier to acquire. For software engineers, this means the ability to keep learning is more valuable than knowing any particular tool today. The authors also found that structured upskilling programs produce better outcomes than leaving development to the individual alone.
 
-## 7. Communication and Collaboration
-
-LinkedIn's research, cited in the 2025 IEEE Spectrum analysis, found that professionals are increasingly emphasizing "a broader range of skills and increasingly uniquely human skills, like ethical reasoning or leadership" on their profiles. This reflects a real shift in employer expectations.
-
-As AI takes over more of the mechanical production of code, the ability to collaborate with team members, communicate technical decisions to non-technical stakeholders, and reason about the ethical and business implications of software becomes a differentiating factor.
-
-The academic study on prompt engineering roles (2025) found that communication was the most in-demand soft skill — not just for interacting with AI systems, but for working within teams where AI output must be explained, challenged, and integrated.
-
-## Summary Table: Key Skills for the AI Era
-
-| Skill | Why It Matters | Evidence |
-|---|---|---|
-| Prompt Engineering | Directing AI tools effectively | Gartner, Schulhoff et al. 2024 |
-| Critical Thinking / Code Review | AI output requires human verification | Stack Overflow 2024/2025 |
-| System Design & Architecture | AI cannot design complex systems | Thoughtworks, McKinsey 2024 |
-| AI Literacy | Understanding AI strengths/limits | IEEE Spectrum, ISTE 2024 |
-| Adaptability | Tools change rapidly | Stack Overflow 2025 |
-| Communication & Collaboration | Human-AI teamwork requires clarity | LinkedIn / IEEE Spectrum 2025 |
+---
 
 ## Conclusion
 
-The AI era does not make software engineers obsolete — it transforms what they must be good at. The engineers most likely to remain valuable are those who can guide AI tools with precision, critically evaluate their output, design systems at scale, understand how AI models actually function, and communicate their work effectively across teams and organizations.The industry data is consistent across Gartner, McKinsey, Stack Overflow, IEEE, and Thoughtworks: AI raises the ceiling for what engineers can accomplish, but it also raises the floor of the skills required to do so responsibly
+These ten articles together tell a consistent story. AI is changing software engineering fast. The engineers who will remain valuable are not the ones who resist AI or the ones who blindly rely on it. They are the ones who develop the right mix of skills — prompt engineering, critical thinking, system design, and above all, the habit of continuous learning. The research shows that these skills do not develop automatically. They require intention, effort, and structured practice. That is the core message for any software engineer navigating the AI era.
+
+---
