@@ -1,26 +1,27 @@
-# References 
+# References
 **Topic 2 — New Skills Required in the AI Era**
+**Course: SWE101 | Assignment 2**
+
+---
 
 ## References (IEEE Format)
 
 [1] S. Schulhoff et al., "The Prompt Report: A Systematic Survey of Prompting Techniques," *arXiv*, 2024. https://arxiv.org/abs/2406.06608
 
-[2] Anonymous, "Prompt Engineer: Analyzing Skill Requirements in the AI Job Market," *arXiv*, 2025. https://arxiv.org/html/2506.00058v1
+[2] A. Vu and J. Oppenlaender, "Prompt Engineer: Analyzing Skill Requirements in the AI Job Market," *arXiv*, 2025. https://arxiv.org/abs/2506.00058
 
-[3] Gartner, "Gartner Says Generative AI will Require 80% of Engineering Workforce to Upskill Through 2027," Gartner Newsroom, Oct. 3, 2024.https://www.gartner.com/en/newsroom/press-releases/2024-10-03-gartner-says-generative-ai-will-require-80-percent-of-engineering-workforce-to-upskill-through-2027
+[3] S. Necula, "AI Impact on the Labour Force — Searching for the Analytical Skills of the Future Software Engineers," *arXiv*, 2023. https://arxiv.org/abs/2302.13229
 
-[5] Stack Overflow, "AI | 2024 Stack Overflow Developer Survey," Stack Overflow, 2024. https://survey.stackoverflow.co/2024/ai/
+[4] M. Kam et al., "What Do Professional Software Developers Need to Know to Succeed in an Age of Artificial Intelligence?" in *33rd ACM International Conference on the Foundations of Software Engineering (FSE Companion '25)*, Trondheim, Norway, 2025. https://arxiv.org/abs/2506.00202
 
-[6] McKinsey & Company, "The State of AI in 2025: Agents, Innovation, and Transformation," *McKinsey & Company*, 2025. https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+[5] V. Terragni, A. Vella, P. Roop, and K. Blincoe, "The Future of AI-Driven Software Engineering," *ACM Transactions on Software Engineering and Methodology*, 2025. https://arxiv.org/abs/2406.07737
 
-[7] Stack Overflow, "AI | 2025 Stack Overflow Developer Survey," Stack Overflow, 2025.  https://survey.stackoverflow.co/2025/ai
+[6] D. Federiakin, D. Molerov, O. Zlatkin-Troitschanskaia, and A. Maur, "Prompt Engineering as a New 21st Century Skill," *Frontiers in Education*, vol. 9, 2024.  https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1366434/full?
 
-[8] IEEE Spectrum, "AI Jobs in 2025: Essential Insights for Software Engineers," *IEEE Spectrum*, Apr. 17, 2025. https://spectrum.ieee.org/ai-jobs-in-2025
+[7] J. Oppenlaender, R. Linder, and J. Silvennoinen, "Prompting AI Art: An Investigation into the Creative Skill of Prompt Engineering," *arXiv*, 2023. https://arxiv.org/abs/2303.13534
 
-[9] Thoughtworks, "Software Engineering Skills, Jobs and Careers in the AI Era," *Thoughtworks Insights*, Dec. 18, 2025.  https://www.thoughtworks.com/insights/articles/software-engineering-skills-jobs-careers-ai-era
+[8] Anonymous, "Prompt Engineering in Higher Education: A Systematic Review," *International Journal of Educational Technology in Higher Education*, Springer, 2025. [Online]. Available: https://link.springer.com/article/10.1186/s41239-025-00503-7
 
-[10] Quantic, "10 Software Engineering Skills Needed to Lead in the AI Economy," *Quantic School of Business and Technology*, Jan. 28, 2025. https://quantic.edu/blog/2025/01/28/10-software-engineering-skills-needed-to-lead-in-the-ai-economy/
+[9] Anonymous, "Generative AI and the Transformation of Software Development Practices," *arXiv*, 2025. https://arxiv.org/abs/2510.10819
 
-[11] Brainhub, "Is There a Future for Software Engineers? The Impact of AI," *Brainhub*, 2025.  https://brainhub.eu/library/software-developer-age-of-ai
-
-[12] Gloat, "AI Skills Demand in the U.S. Job Market," *Gloat*, Mar. 4, 2026.  https://gloat.com/blog/ai-skills-demand/
+[10] L. Li, "Reskilling and Upskilling the Future-ready Workforce for Industry 4.0 and Beyond," *Information Systems Frontiers*, vol. 26, pp. 1697–1712, 2022.  https://link.springer.com/article/10.1007/s10796-022-10308-y 
